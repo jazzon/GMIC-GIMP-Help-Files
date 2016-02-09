@@ -5,7 +5,7 @@ Unless otherwise specified by a LICENSE file contained in the directory of a spe
 
 Said attribution is :
 
-    "Jazzon (code.maintaner@gmail.com) for the G'MIC Gimp Community"
+    "Jazzon (code.maintaner@gmail.com) for the G'MIC Community"
     
     Backlinks may point to either:
     
